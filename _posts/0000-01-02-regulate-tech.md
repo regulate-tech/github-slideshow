@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My Learning Experience - shared with you!
 Use the left arrow to go back!
